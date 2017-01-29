@@ -1,0 +1,52 @@
+h1{
+  color: blue;
+  text-align: center;
+}
+
+h2{
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+
+p{
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.digital p {
+  background-color: red;
+}
+
+.analog p {
+  background-color: yellow;
+}
+.important {
+  color: red;
+}
+
+img {
+  float: left;
+}
+
+.main {
+  background-color: green;
+  font-style:oblique;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+
+.column {
+  width: 200px;
+  float: right;
+}
+.my-class {
+  margin: 24px;
+  border: 4px solid green;
+  padding: 10px;
+  background-color: orange;
+}
